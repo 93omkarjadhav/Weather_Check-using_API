@@ -56,7 +56,7 @@ const handle=()=>{
         </Typography>
       </CardContent>
       <CardActions>
-        <Button onClick={handle} size="small">Share </Button>
+        <Button onClick={handle} size="small">Shareit </Button>
         <Button size="small"><a href="https://www.weather.com">Learn More</a></Button>
       </CardActions>
     </Card>
